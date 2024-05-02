@@ -2,8 +2,7 @@
 Hello There , My Name Ansori<br>Just Ordinary People Looking For Peace
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif
-)" width="100"/>
+  <img src="https://media.giphy.com/media/5ev3alRsskWA0/giphy.gif?cid=790b7611nxiw9bf4wocro7d0aicark2suwvqon95gwoa1kow&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
 
