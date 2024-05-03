@@ -74,6 +74,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ansori123cs/ansori123cs/snake.yml" alt="Snake animation" />
+<img src="snake.yml" alt="Snake animation" />
 
 ###
