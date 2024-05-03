@@ -1,8 +1,8 @@
 # 💫 About Me:
-<h2>Hello There , My Name Ansori<br>Just Ordinary People Looking For Peace</h2>
 
-<div align="center">
+<div align="right">
   <div style="display: flex;">
+<h2>Hello There , My Name Ansori<br>Just Ordinary People Looking For Peace</h2>
   <img src="https://media.giphy.com/media/5ev3alRsskWA0/giphy.gif?cid=790b7611nxiw9bf4wocro7d0aicark2suwvqon95gwoa1kow&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600"/>
   </div>
   </div>
