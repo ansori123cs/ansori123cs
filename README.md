@@ -61,6 +61,6 @@
 
 ###
 <div style="background: white;" align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img align="right" height="150" src="https://media.giphy.com/media/fMAIvokTx2ijJy67gC/giphy.gif?cid=790b7611b624t3pc4mlp27hqm21qiy2v1y5b8wbua2itd1uh&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 ###
