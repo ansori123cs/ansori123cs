@@ -1,9 +1,5 @@
-<br clear="both">
 
-<h2 align="left">Hello, My Name Ansori</h2>
-
-
-<br clear="both">
+<h1 align="left">Hello, My Name Ansori</h1>
 
 <p align="left">Just Ordinary people, Trying To Make World peace</p>
 
@@ -64,4 +60,6 @@
 </div>
 
 ###
-
+<div style="background: white;" align="right>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
