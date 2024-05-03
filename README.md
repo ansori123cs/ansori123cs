@@ -60,6 +60,7 @@
 </div>
 
 ###
-<div style="background: white;" align="right>
+<div style="background: white;" align="right">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
+###
