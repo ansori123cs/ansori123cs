@@ -10,6 +10,11 @@
 
 ###
 
+
+<br clear="both">
+
+<img align="left" height="150" src="https://media.giphy.com/media/fMAIvokTx2ijJy67gC/giphy.gif?cid=790b7611b624t3pc4mlp27hqm21qiy2v1y5b8wbua2itd1uh&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+###
 <br clear="both">
 
 <div align="left">
@@ -68,12 +73,3 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="150" src="https://media.giphy.com/media/fMAIvokTx2ijJy67gC/giphy.gif?cid=790b7611b624t3pc4mlp27hqm21qiy2v1y5b8wbua2itd1uh&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<img src="snake.yml" alt="Snake animation" />
-
-###
