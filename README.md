@@ -65,3 +65,16 @@
 <div align="center">
   <img height="261" src="https://i.pinimg.com/564x/d7/25/b7/d725b76147f15bcb568c019c9f5cae82.jpg"  />
 </div>
+<br clear="both">
+<details>
+  <br />
+  <summary><b>🎮 My SoulMate</b></summary>
+  	<ul>
+  	    <li><b>OS:</b>Windows 11</li>
+	    <li><b>Laptop: </b>Lenovo Ideapad Slim3</li>
+  	    <li><b>Browser: </b> Chrome & Microsoft Edge</li>
+	    <li><b>Code Editor:</b> Visual Studio Code,Visual Studio Comunity,Godot Engine</li>
+ 	    <li><b>Other Tools:</b> Postman,Adobe Premiere, Canva,Blender,  Git</li>
+	</ul>
+</details>
+
