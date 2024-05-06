@@ -65,7 +65,6 @@
 <div align="center">
   <img height="261" src="https://i.pinimg.com/564x/d7/25/b7/d725b76147f15bcb568c019c9f5cae82.jpg"  />
 </div>
-<br clear="both">
 <details>
   <br />
   <summary><b>🎮 My SoulMate</b></summary>
@@ -75,6 +74,18 @@
   	    <li><b>Browser: </b> Chrome & Microsoft Edge</li>
 	    <li><b>Code Editor:</b> Visual Studio Code,Visual Studio Comunity,Godot Engine</li>
  	    <li><b>Other Tools:</b> Postman,Adobe Premiere, Canva,Blender,  Git</li>
+	</ul>
+</details>
+<details>
+  <br />
+  <summary><b>About Me</b></summary>
+  	<ul>
+  	    <li><b>Full Name:</b>Ahmad Ansori</li>
+	    <li><b>ask Me About</b> Web Design ,Web Development , Game Dev, 3d/2d Art , Graphic Design</li>
+  	    <li><b>Language: </b>html5, css, javascript, php , c# c++ , </li>
+	    <li><b>Framework That I used:</b>React, React Native, Laravel, ASP.Net.Core, Bootstrap5, CodeIgniter, Tailwind</li>
+ 	    <li><b>Database I Usually Used:</b>MySQL, mongoDB , porste, Firebase</li>
+ 	    <li><b>My Focus Now On:</b>React Native , ASP.Net.Core, GodotEngine</li>
 	</ul>
 </details>
 
