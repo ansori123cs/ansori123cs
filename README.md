@@ -38,10 +38,9 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ansori123cs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ansori123cs&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   
 <img align="right" height="150" src="https://media.giphy.com/media/fMAIvokTx2ijJy67gC/giphy.gif?cid=790b7611b624t3pc4mlp27hqm21qiy2v1y5b8wbua2itd1uh&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGh0M24xdGRxc29uNnlwYnJrZ2ZsZmdjZzVhNGdpYTJicHZiem0wayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  />
 </div>
 
 ###
